@@ -1,3 +1,3 @@
-# python
+# Intro
 
-see [linting](linting) stuff
+For python [linting](linting) stuff see linting.
